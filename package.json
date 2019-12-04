@@ -1,14 +1,14 @@
 {
   "name": "pdf-generate-vinculacion",
   "version": "1.0.0",
-  "description": "",
+  "description": "Crea un pdf para el proceso de vinculacion - solicitud",
   "main": "index.js",
   "scripts": {
     "start":"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "giothcode",
   "license": "ISC",
   "dependencies": {
     "pdfkit": "^0.10.0"
