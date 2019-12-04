@@ -2,6 +2,12 @@
 
 ***Descarga el repositorio***
 
+git clone https://github.com/giothc94/itq-vinculacion-SOLICITUD.git
+
+ó
+
+descarga como .zip
+
 **Dentro de la carpeta ejecuta:**
 
 npm i
