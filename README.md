@@ -1,10 +1,8 @@
 # ITQ-pasantias
-# PROCESO-VINCULACION
-## SOLICITUD
 
-### Descarga el repositorio.
+***Descarga el repositorio***
 
-### Dentro de la carpeta ejecuta:
+**Dentro de la carpeta ejecuta:**
 
 npm i
 
