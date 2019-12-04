@@ -2,7 +2,7 @@
 
 ***Descarga el repositorio***
 
-git clone https://github.com/giothc94/itq-vinculacion-SOLICITUD.git
+use `git clone https://github.com/giothc94/itq-vinculacion-SOLICITUD.git`
 
 ó
 
